@@ -1,0 +1,50 @@
+Material complementar
+
+O que é HTML?
+https://www.w3schools.com/html/html_intro.asp
+
+
+O que é JavaScript?
+https://www.w3schools.com/js/default.asp
+
+
+Outputs:
+https://www.w3schools.com/js/js_output.asp
+
+
+Conhecendo variáveis:
+https://www.w3schools.com/js/js_variables.asp
+
+
+Conhecendo operadores:
+https://www.w3schools.com/js/js_operators.asp
+https://www.w3schools.com/js/js_assignment.asp
+https://www.w3schools.com/js/js_arithmetic.asp
+
+
+Condicionais:
+https://www.w3schools.com/js/js_if_else.asp
+
+
+Loopings:
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_loop_forin.asp
+https://www.w3schools.com/js/js_loop_forof.asp
+https://www.w3schools.com/js/js_loop_while.asp
+
+
+Objetos:
+https://www.w3schools.com/js/js_objects.asp
+
+
+Arrays:
+https://www.w3schools.com/js/js_arrays.asp
+
+
+Funções:
+https://www.w3schools.com/js/js_functions.asp
+
+
+Escopos:
+https://www.w3schools.com/js/js_scope.asp
+

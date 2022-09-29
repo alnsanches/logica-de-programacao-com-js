@@ -1,0 +1,10 @@
+
+
+1) o que é logica de programação
+2) input e outputs
+3) variaveis e constantes
+4) condicionais
+5) array(vetores)
+6) loopings
+7 funcços
+8 objetos
